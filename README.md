@@ -1,7 +1,7 @@
 # Repo
 push change
 new branch
-
+pull
 echo "# feature_branch" >> README.md
 git init
 git add README.md
